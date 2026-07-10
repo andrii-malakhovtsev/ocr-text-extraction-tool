@@ -1,5 +1,12 @@
 # Image Text To Clipboard
 
+<a href="https://www.youtube.com/watch?v=M-4GDEbh8wU">YouTube Video</a>
+<p align="left">
+  <a href="https://www.youtube.com/watch?v=M-4GDEbh8wU">
+    <img src="https://img.youtube.com/vi/M-4GDEbh8wU/maxresdefault.jpg" alt="Copy Text from Images - Windows, macOS" width="600">
+  </a>
+</p>
+
 ## Dependencies
 
 - This project uses [Tesseract OCR](https://github.com/tesseract-ocr/tesseract), an open-source Optical Character Recognition engine, licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
